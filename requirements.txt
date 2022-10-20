@@ -13,7 +13,6 @@ Js2Py==0.71
 MarkupSafe==2.1.1
 mysql-connector==2.2.9
 nltk==3.7
-numpy==1.23.4
 packaging==21.3
 pandas==1.5.1
 pipwin==0.5.2
