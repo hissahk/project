@@ -32,7 +32,6 @@ mysql-connector==2.2.9
 nltk==3.7
 oauthlib==3.2.2
 packaging==21.3
-pandas==1.5.1
 pipwin==0.5.2
 pycparser==2.21
 pyjsparser==2.7.1
